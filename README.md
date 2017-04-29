@@ -28,7 +28,7 @@
 
 
 - [Sorting](./Sorting/)
-  - Selection Sort
+  - [Selection Sort](./Sorting/Selection%20Sort)
   - [Bubble Sort](./Sorting/Bubble%20Sort)
   - [Insertion Sort](./Sorting/Insertion%20Sort)
   - Merge Sort

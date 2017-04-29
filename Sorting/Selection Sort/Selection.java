@@ -1,4 +1,6 @@
-public class Selection 
+/* Selection Sort implementation in Java */
+
+public class Selection
 {
 	//Following function will sort the array in Increasing (ascending) order
     void sort(int arr[])
