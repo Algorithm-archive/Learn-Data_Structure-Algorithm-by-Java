@@ -1,4 +1,6 @@
-public class Insertion 
+/* Insertion sort implementation in Java */
+
+public class Insertion
 {
 	//Following function will sort the array in Increasing (ascending) order
     void sort(int arr[])

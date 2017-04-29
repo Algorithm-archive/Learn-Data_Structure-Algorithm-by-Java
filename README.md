@@ -30,7 +30,7 @@
 - [Sorting](./Sorting/)
   - Selection Sort
   - [Bubble Sort](./Sorting/Bubble%20Sort)
-  - Insertion Sort
+  - [Insertion Sort](./Sorting/Insertion%20Sort)
   - Merge Sort
   - Quick Sort
   - Bucket Sort
